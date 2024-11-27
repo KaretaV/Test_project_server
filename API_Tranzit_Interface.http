@@ -1,0 +1,6 @@
+@API_Tranzit_Interface_HostAddress = http://localhost:5201
+
+GET {{API_Tranzit_Interface_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

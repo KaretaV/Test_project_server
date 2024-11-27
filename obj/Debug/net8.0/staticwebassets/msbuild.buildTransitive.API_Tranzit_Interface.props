@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API_Tranzit_Interface.props" />
+</Project>
